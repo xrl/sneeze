@@ -1,0 +1,10 @@
+[package]
+name = "sneeze"
+description = "ACHOO! But make it digital"
+license = "MIT"
+homepage = "https://github.com/xrl/sneeze"
+repository = "https://github.com/xrl/sneeze"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
